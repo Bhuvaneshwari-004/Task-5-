@@ -37,6 +37,7 @@ The dataset used is the classic **Titanic dataset** from Kaggle. Key features in
 * `Fare`: Passenger fare
 * `Embarked`: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 * `Survived`: Target variable (0 = No, 1 = Yes)
+![{7DF11B9E-B851-46FD-9AE2-EACE68B6B427}](https://github.com/user-attachments/assets/1a0b891f-5188-4953-84a6-9d4cde7cf9c3)
 
 ---
 
@@ -67,6 +68,7 @@ The dataset used is the classic **Titanic dataset** from Kaggle. Key features in
 ### 5. **Dropping Irrelevant Columns**
 
 * Removed `PassengerId`, `Name`, and `Ticket` since they don’t add predictive value
+![{18C4A575-9563-4F6C-BD5F-4F7BCD15E74D}](https://github.com/user-attachments/assets/0270d09f-a66b-49d4-a185-3b8850dc7134)
 
 ### 6. **Encoding Categorical Variables**
 
@@ -80,6 +82,9 @@ The dataset used is the classic **Titanic dataset** from Kaggle. Key features in
   * `sns.heatmap()` for feature correlation
   * Count plots and bar plots to examine survival by gender and class
   * Histograms and boxplots for distribution insights
+![{0F4FCEF9-CE13-4C08-92E4-46E33C33FA33}](https://github.com/user-attachments/assets/8d6f2e97-c2f2-4a01-aa98-0b4431291368)
+![{AF513412-2E9B-4F3B-857D-5AE34D123853}](https://github.com/user-attachments/assets/3da6549f-c1b5-43b2-b3e9-59784d515ce1)
+
 
 ### 8. **Feature Selection**
 
@@ -116,6 +121,12 @@ The dataset used is the classic **Titanic dataset** from Kaggle. Key features in
   * Higher survival for females
   * Higher survival in 1st class passengers
 * **Boxplots and histograms**: Helped identify outliers and distribution patterns
+![{10614FBE-B123-400A-92F4-B758E88D107D}](https://github.com/user-attachments/assets/0ce90e7e-2b54-4fd5-8332-a3c46389c452)
+![{6B8FDDFB-CBC0-46A1-91F9-62B603D98D72}](https://github.com/user-attachments/assets/32b07335-44f1-4e51-8639-f48152c56e95)
+![{DB6837DD-4285-4640-A4BD-461B13C401D7}](https://github.com/user-attachments/assets/9ac1c572-9bbc-4cf9-9b23-bfe5316c9923)
+![{293963DC-18AB-404E-8B12-FF0A89E9C9FF}](https://github.com/user-attachments/assets/24ae337e-63f5-45b1-a120-fa291ca08148)
+![{43D04226-E5D9-419C-8B18-03749341F429}](https://github.com/user-attachments/assets/690042f7-f184-4e03-8ce2-7f20f9c3d24b)
+![{108D0602-48D9-4A38-A575-C6C00C21D15D}](https://github.com/user-attachments/assets/19485cce-9f24-4b4a-92bb-cba35fcd7bd9)
 
 ---
 
