@@ -7,7 +7,7 @@ Absolutely! Here's a **comprehensive README.md** that clearly documents **everyt
 
 This repository contains a complete machine learning workflow using the Titanic dataset to predict passenger survival. The project includes data cleaning, exploratory data analysis (EDA), feature engineering, logistic regression modeling, and evaluation — all implemented in a Jupyter Notebook.
 
----
+--
 
 ## 📦 Project Structure
 
