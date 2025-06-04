@@ -1,7 +1,4 @@
 # Task-5-
-Absolutely! Here's a **comprehensive README.md** that clearly documents **everything you’ve done** in your Titanic project — from data exploration to model building. This version is detailed and suitable for GitHub, covering the full notebook contents.
-
----
 
 # 🚢 Titanic Survival Prediction – Machine Learning Project
 
